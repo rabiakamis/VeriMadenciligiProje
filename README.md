@@ -43,6 +43,8 @@ Olasılıksal bir sınıflandırma algoritmasıdır. Özellikle metin sınıflan
 Derin öğrenme yöntemleri, veriden otomatik olarak özellik çıkarımı yaparak özellikle karmaşık ve yüksek boyutlu veri kümelerinde üstün performans sergiler.
 
 ---
+## Video linki : https://youtu.be/VXhfRFlG7J8
+---
 
 ## ⚙ Kurulum ve Kullanım
 
